@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é **Sarah Oliveira Albuquerque**
+### Meu nome é **Sarah Oliveira Albuquerque**
 
 🎓 Estudante de Ciência da Computação  
 💻 Interesse em programação e desenvolvimento de software  
